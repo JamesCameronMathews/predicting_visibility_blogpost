@@ -1,0 +1,39 @@
+"Daily Weather Observations for Perth, Western Australia for June 2020"
+"Prepared at 16:03 UTC on Sunday  2 August 2020   IDCJDW6111.202006"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"A combination of observations from Mount Lawley and Perth Airport."
+"Significant variations can be experienced across the Perth metropolitan area on individual days. On average the inner city area is warmer overnight than the current observation sites. The current official Perth observation site is Perth Metro, however in the past Perth Regional Office and Perth Gardens have been official Perth observation sites.Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
+"Temperature, humidity, wind, pressure and rainfall observations are from Perth Metro {station 009225}"
+"Cloud, evaporation and sunshine observations are from Perth Airport {station 009021}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2020-06-1,13.1,19.8,7.4,1.8,4.0,NE,19,12:16,15.1,83,7,S,7,1028.6,18.8,54,6,NE,7,1026.3
+,2020-06-2,8.9,21.0,0,2.2,4.7,NE,24,12:42,13.4,83,7,ENE,6,1026.7,20.2,50,7,ESE,9,1023.4
+,2020-06-3,10.8,25.1,0,1.8,9.0,NE,20,10:00,17.0,63,2,ESE,7,1024.3,24.8,34,1,N,6,1021.2
+,2020-06-4,10.9,25.5,0.2,2.2,7.1,SSW,17,12:43,16.9,68,7,N,6,1023.7,25.1,37,6,SSE,9,1021.6
+,2020-06-5,12.6,24.9,0,4.4,7.4,E,24,09:11,17.2,66,1,ENE,11,1024.9,24.2,49,7,ESE,6,1022.4
+,2020-06-6,15.1,24.7,0,4.4,0.3,NE,20,08:28,18.9,42,7,N,7,1022.7,24.1,30,8,NNE,7,1020.3
+,2020-06-7,15.0,22.8,0.4,2.0,2.2,SW,20,06:27,16.2,92,7,SSW,6,1021.6,22.5,46,6,SE,7,1018.6
+,2020-06-8,7.4,24.4,0.2,1.6,9.2,ENE,19,10:50,15.5,53,1,SE,9,1022.3,23.1,34,4,NE,9,1020.0
+,2020-06-9,5.8,25.4,0,2.2,9.1,NE,19,10:19,13.2,70,6,WSW,2,1020.7,25.2,20,1,N,4,1018.3
+,2020-06-10,7.8,24.7,0,3.6,3.2,,,,13.8,54,7, ,Calm,1014.9,22.1,56,6,NNW,9,1012.3
+,2020-06-11,13.8,21.7,9.4,2.2,4.2,WSW,31,14:01,16.5,98,8,NNE,11,1007.8,20.9,73,4,W,11,1006.5
+,2020-06-12,14.5,18.3,20.6,1.6,5.9,SSW,52,09:37,15.7,87,6,SSW,9,1011.2,17.6,51,4,SSW,20,1014.3
+,2020-06-13,8.9,19.0,1.8,2.4,3.3,SSW,31,15:04,11.9,91,7,NNE,6,1022.6,18.7,66,6,SW,13,1021.3
+,2020-06-14,10.1,21.0,3.0,5.4,6.9,WSW,35,15:18,12.5,98,5,SSW,4,1025.7,20.1,57,6,WSW,17,1024.1
+,2020-06-15,11.9,19.9,0.2,2.6,0.4,SW,24,15:54,15.1,81,8, ,Calm,1027.0,19.4,52,6,WSW,7,1024.6
+,2020-06-16,11.3,21.3,0,2.0,9.1,NNE,31,09:58,15.9,64,2,NNE,9,1024.6,21.1,36,1,N,9,1019.6
+,2020-06-17,9.2,22.7,0,2.4,3.1,NNW,59,12:48,17.3,33,2,N,13,1010.3,17.4,87,8,W,13,1007.7
+,2020-06-18,12.5,18.2,12.6,1.0,6.3,SW,61,04:33,12.7,74,3,W,13,1017.0,17.3,59,2,WSW,13,1019.0
+,2020-06-19,8.9,18.7,0.6,3.8,8.2,NNE,19,11:50,12.1,76,3,E,6,1028.0,17.8,49,7,E,4,1026.5
+,2020-06-20,3.4,18.7,0,2.2,9.1,NE,30,13:12,11.4,70,0,ENE,11,1027.1,18.3,44,0,ENE,11,1023.0
+,2020-06-21,6.1,23.0,0,2.4,9.1,NE,24,10:08,13.2,55,0,ENE,6,1021.4,23.0,35,0,NNW,9,1017.3
+,2020-06-22,10.6,21.5,0,3.6,2.1,NNE,50,16:32,17.2,32,7,NNE,15,1014.7,19.5,37,8,N,17,1009.7
+,2020-06-23,14.8,20.1,8.2,3.0,8.2,WNW,50,01:43,17.7,68,5,WSW,17,1014.4,19.5,55,3,W,17,1015.3
+,2020-06-24,8.2,19.6,1.8,2.8,6.4,SW,30,14:42,12.9,83,5,SW,6,1022.7,18.2,50,5,SW,13,1021.7
+,2020-06-25,4.2,20.5,0,2.4,7.8,NNE,28,11:33,9.5,82,4,NNE,7,1022.2,19.9,44,1,N,11,1016.7
+,2020-06-26,8.8,21.3,0,0.8,7.8,NW,31,15:27,12.6,99,1,NNE,7,1014.9,20.8,50,2,WNW,15,1013.1
+,2020-06-27,12.6,19.8,3.8,2.2,4.9,N,24,23:47,15.7,96,1,N,9,1015.6,19.1,75,3,NW,9,1013.0
+,2020-06-28,14.5,18.8,6.0,2.4,1.1,NW,52,19:50,16.9,87,8,N,11,1010.0,16.5,97,8,NNW,9,1008.0
+,2020-06-29,13.6,18.4,38.2,2.2,4.8,SW,56,12:15,16.1,73,4,W,15,1010.1,16.2,72,5,W,11,1012.7
+,2020-06-30,14.5,19.8,1.0,3.0,4.4,WSW,44,20:59,18.4,63,4,W,13,1015.4,17.1,80,6,WSW,20,1014.3

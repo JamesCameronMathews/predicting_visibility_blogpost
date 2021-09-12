@@ -1,0 +1,40 @@
+"Daily Weather Observations for Perth, Western Australia for July 2021"
+"Prepared at 13:03 UTC on Saturday 21 August 2021   IDCJDW6111.202107"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"A combination of observations from Mount Lawley and Perth Airport."
+"Significant variations can be experienced across the Perth metropolitan area on individual days. On average the inner city area is warmer overnight than the current observation sites. The current official Perth observation site is Perth Metro, however in the past Perth Regional Office and Perth Gardens have been official Perth observation sites.Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
+"Temperature, humidity, wind, pressure and rainfall observations are from Perth Metro {station 009225}"
+"Cloud, evaporation and sunshine observations are from Perth Airport {station 009021}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-07-1,10.7,19.5,1.4,3.2,4.7,SSE,20,15:33,12.0,98,7,NW,9,1026.7,19.0,60,7,N,7,1024.0
+,2021-07-2,7.9,18.9,0,0.0,3.5,NE,24,11:07,11.0,92,7,SSE,4,1026.4,18.5,51,6,NE,2,1023.4
+,2021-07-3,4.4,20.0,0,2.2,8.2,NE,26,11:18,9.7,99,7, ,Calm,1024.5,19.6,48,7,NE,11,1019.5
+,2021-07-4,9.7,15.9,1.4,2.8,0.1,N,41,13:40,13.2,88,8,NNW,7,1014.3,14.8,99,8,SW,20,1010.9
+,2021-07-5,8.8,16.8,44.6,1.6,3.7,WNW,50,05:35,14.2,67,8,WSW,15,1012.0,14.8,61,6,SW,20,1013.1
+,2021-07-6,9.1,19.5,7.4,2.2,4.1,WNW,56,20:07,13.1,99,5,NNE,9,1011.6,17.7,64,7,NW,19,1008.0
+,2021-07-7,11.8,17.8,23.6,0.4,6.3,SW,54,04:02,16.1,57,3,SW,15,1011.7,16.7,52,4,SW,20,1013.6
+,2021-07-8,10.1,18.7,4.6,3.0,7.6,WSW,35,13:19,16.5,72,1,WSW,6,1017.9,18.2,54,3,W,11,1016.0
+,2021-07-9,11.7,19.3,4.2,1.8,3.8,NNW,50,13:21,13.6,90,7,NNE,9,1009.8,13.8,97,8,SW,17,1004.6
+,2021-07-10,7.5,18.0,30.0,2.4,8.2,WSW,31,02:11,12.7,93,1, ,Calm,1012.8,16.2,73,5,SW,7,1014.2
+,2021-07-11,9.8,18.3,0.6,0.8,8.5,NE,37,11:19,13.3,77,1,WSW,9,1018.8,17.7,42,1,NNE,19,1014.3
+,2021-07-12,11.6,21.7,9.6,4.8,4.1,WNW,59,21:52,13.9,99,7,NNE,13,1003.3,17.2,79,7,WNW,20,1001.1
+,2021-07-13,13.9,18.9,13.4,3.6,5.2,W,54,12:51,17.5,70,6,W,19,1003.6,15.3,85,7,WNW,20,1004.5
+,2021-07-14,13.3,18.3,14.0,3.0,5.5,WSW,48,15:44,15.0,83,7,W,4,1008.0,16.7,58,5,WSW,24,1007.2
+,2021-07-15,12.8,17.9,2.0,4.4,5.3,WSW,56,02:26,14.8,61,4,SW,20,1016.8,16.6,53,7,SSW,19,1018.8
+,2021-07-16,11.8,17.4,13.4,1.6,2.4,SW,37,01:39,14.3,96,7,SSE,4,1024.1,16.4,78,7,SW,13,1023.6
+,2021-07-17,11.8,18.0,2.8,0.6,2.9,NNE,20,11:26,12.9,95,7,SE,2,1023.1,16.8,70,7,N,9,1019.7
+,2021-07-18,10.8,18.1,1.2,2.6,3.3,WNW,24,11:06,13.3,96,7, ,Calm,1017.8,16.6,74,7,WSW,7,1015.7
+,2021-07-19,9.1,17.0,5.4,1.0,0.6,N,13,10:27,11.9,99,7,NW,6,1020.7,16.9,73,7,NNE,2,1018.1
+,2021-07-20,11.8,16.1,1.6,0.4,0.0,NNE,24,07:04,12.7,97,8,ENE,9,1017.9,14.3,95,7,ESE,6,1011.9
+,2021-07-21,12.6,18.5,29.6,2.2,6.9,SW,26,01:28,14.5,87,2,SSW,11,1011.2,18.4,66,4,SSW,9,1012.2
+,2021-07-22,6.1,17.8,0,0.6,8.3,SW,19,13:31,10.6,99,5,S,7,1019.4,16.8,54,4,WSW,9,1016.8
+,2021-07-23,10.5,19.1,1.8,1.8,5.4,SW,46,13:09,16.4,57,7,WSW,17,1016.0,17.1,63,7,SW,20,1014.8
+,2021-07-24,9.8,18.1,2.0,2.2,5.6,WSW,30,04:38,15.6,68,7,WSW,6,1021.6,17.4,54,5,W,13,1020.3
+,2021-07-25,11.8,20.2,0.6,2.4,7.9,NW,37,14:31,14.5,92,5,NNE,6,1019.9,18.5,57,5,WNW,15,1017.5
+,2021-07-26,12.0,18.7,0.2,2.6,4.6,W,61,23:38,14.3,80,3,N,9,1008.6,15.6,90,8,NNW,19,999.5
+,2021-07-27,13.5,16.9,30.4,5.0,5.2,WSW,67,05:12,15.3,62,7,WSW,20,1003.4,16.4,44,4,WSW,20,1007.7
+,2021-07-28,10.7,19.1,5.8,2.8,6.8,NNW,46,14:53,11.9,99,7,N,11,1012.4,15.2,83,7,NW,22,1009.3
+,2021-07-29,11.8,20.6,6.4,3.2,6.0,W,69,18:36,16.7,79,7,WNW,19,1002.9,20.0,63,5,WNW,22,1001.6
+,2021-07-30,12.5,16.3,7.0,4.6,5.1,SW,52,01:40,14.4,66,7,W,19,1004.3,14.0,64,6,WSW,22,1005.9
+,2021-07-31,7.9,16.2,6.4,2.8,4.9,WSW,39,22:03,10.3,93,6,NW,2,1014.8,14.5,58,5,WSW,15,1014.9

@@ -1,0 +1,22 @@
+Original,Short
+Date,date
+Minimum temperature (°C),temp_max
+Maximum temperature (°C),temp_min
+Rainfall (mm),rain
+Evaporation (mm),evap
+Sunshine (hours),sun
+Direction of maximum wind gust,gust_dir
+Speed of maximum wind gust (km/h),gust_speed
+Time of maximum wind gust,gust_time
+9am Temperature (°C),temp9
+9am relative humidity (%),hum9
+9am cloud amount (oktas),cloud9
+9am wind direction,wind_dir9
+9am wind speed (km/h),wind_speed9
+9am MSL pressure (hPa),pressure9
+3pm Temperature (°C),temp3
+3pm relative humidity (%),hum3
+3pm cloud amount (oktas),cloud3
+3pm wind direction,wind_dir3
+3pm wind speed (km/h),wind_speed3
+3pm MSL pressure (hPa),pressure3
