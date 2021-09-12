@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+public/
+/public/
+/resources/_gen/
+.DS_store
