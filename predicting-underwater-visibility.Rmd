@@ -258,7 +258,7 @@ rmarkdown::paged_table(r)
 
 ### Traditional regression models don't work
 
-How might we go about modelling visibility? I have defined an acceptable prediction as within 3m, a range within which you can can comfortably plan a dive. We also want to be able to capture good days and bad days.
+How might we go about modelling visibility? I have defined an acceptable prediction as within 3m, a range within which you can comfortably plan a dive. We also want to be able to capture good days and bad days.
 
 A simple approach would be to use a simple linear regression on the weather. This performs terribly, dragging every site down towards the population mean, and not discerning between Rottnest and the river. It does capture a negative effect of swell, but this is drowned out by the missing site information. In comparison, just using mean visibility for that site performs better, even though it cannot discern between a perfect day and tropical storm. This wouldn't be an inspiring use of statistics. We need a sensible way of combing these two pieces of information. 
 
